@@ -25,4 +25,4 @@ https://www.linkedin.com/company/inamigos-foundation/
 
 The impact figures and organizational facts in the page are presented as information reported by InAmigos Foundation on its official website.
 
-The Website I made for this NGO is - file:///C:/InAmigos%20Foundation/InAmigos-Foundation-Website/InAmigos-Foundation-Website/index.html
+The Website I made for this NGO is - 
