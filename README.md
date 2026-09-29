@@ -25,4 +25,5 @@ https://www.linkedin.com/company/inamigos-foundation/
 
 The impact figures and organizational facts in the page are presented as information reported by InAmigos Foundation on its official website.
 
-The Website I made for this NGO is - https://inamigos-foundation-somilll.netlify.app/
+The Website I made for this NGO is - https://inamigos-foundation-somil.netlify.app
+
